@@ -8,7 +8,7 @@ description: |
 owner: Carlos Cluff # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
 email: multidisciplinarysolutionsco@gmail.com
-baseurl: "/multidisciplinarysolutionsco.site" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://carloscluff.github.io/multidisciplinarysolutionsco.site/" # the base hostname & protocol for your site
 social:
   github: https://github.com/carloscluff
