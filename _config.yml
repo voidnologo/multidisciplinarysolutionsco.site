@@ -5,14 +5,13 @@
 title: Multi Disciplinary Solutions
 description: |
     When you need to find that which you wished existed, but can't
-owner: Carlos Cluff # or company name
+owner: Owner # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
-email: multidisciplinarysolutionsco@gmail.com
+email: multidisciplinarysolutionsco@example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://carloscluff.github.io/multidisciplinarysolutionsco.site/" # the base hostname & protocol for your site
+url: "https://voidnologo.github.io/multidisciplinarysolutionsco.site/" # the base hostname & protocol for your site
 social:
-  github: https://github.com/carloscluff
-  linkedin-square: https://linkedin.com/in/carlos-cluff-8507b8126
+  github: https://github.com/voidnologo
   email: /contact/
 
 # Build settings
